@@ -58,7 +58,7 @@ In this project, Arduino controls the motor by sending step signals:
 
 You can download the Arduino sketch here:
 
-[Download Arduino Code](Arduino_Stepper_Test.ino)
+[Download Arduino Code](arduino-stepper-motor-test.ino)
 
 Or open the `.ino` file directly inside this repository.
 
